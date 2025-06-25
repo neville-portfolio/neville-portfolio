@@ -22,5 +22,7 @@
 
 ### 🌱 [Carbon Footprint Calculator](https://github.com/neville-portfolio/carbon-footprint-calculator)
 A web tool to calculate and track individual carbon emissions, built with a user-centered design approach and real UK emissions data.
+  - Built with PHP, MySQL, JavaScript
+  - Tracks and visualises carbon emissions
 
 ---
