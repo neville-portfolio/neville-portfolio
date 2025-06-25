@@ -1,8 +1,8 @@
 ## Hi, I'm Georgia 👋
 
-🎓 MSc Computer Science with Data Analytics  
-💡 Focused on building clean, inclusive, and data-driven web apps  
-🚀 Actively seeking roles in: **Full-Stack Development**, **Frontend/UI**, or **Data-Focused Applications**
+🎓 MSc in Computer Science with Data Analytics  
+💡 Passionate about creating user-focused, data-informed digital solutions · solving problems through thoughful design and data insights
+🚀 Actively seeking roles in: **Full-Stack Development** · **UX/UI** · **Data-Driven Products** · **Data Analysis**
 
 ---
 
